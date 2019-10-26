@@ -1,0 +1,49 @@
+[
+    {
+      "id": 1,
+      "clicked": false,
+      "image": "https://upload.wikimedia.org/wikipedia/en/a/af/Rey_Star_Wars.png"
+    },
+    {
+      "id": 2,
+      "clicked": false,
+      "image": "https://upload.wikimedia.org/wikipedia/en/7/76/Darth_Vader.jpg"
+  
+    },
+    {
+      "id": 3,
+      "clicked": false,
+      "image": "https://img1.looper.com/img/gallery/the-most-terrible-things-luke-skywalker-has-ever-done/intro-1495558220.jpg"
+  
+    },
+    {
+      "id": 4,
+      "clicked": false,
+      "image": "https://upload.wikimedia.org/wikipedia/en/1/1b/Princess_Leia%27s_characteristic_hairstyle.jpg"
+  
+    },
+    {
+      "id": 5,
+      "clicked": false,
+      "image": "https://compote.slate.com/images/2b6fb34a-8047-4e17-b3d5-64987519657d.jpg"
+  
+    },
+    {
+      "id": 6,
+      "clicked": false,
+      "image": "https://www.sideshow.com/wp/wp-content/uploads/2015/12/imrs.jpg"
+      
+    },
+    {
+      "id": 7,
+      "clicked": false,
+      "image": "https://geekandsundry.com/wp-content/uploads/2016/11/Game-5.png"
+      
+    },
+    {
+      "id": 8,
+      "clicked": false,
+      "image": "https://upload.wikimedia.org/wikipedia/en/3/3e/FettbobaJB.png"
+     
+    }
+  ]
